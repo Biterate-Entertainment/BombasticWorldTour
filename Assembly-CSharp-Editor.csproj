@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{00BE16F2-0ECD-6E91-CB70-88251334E61F}</ProjectGuid>
+    <ProjectGuid>{5CCB6929-7612-30CC-CE54-1DF4609F27C4}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp-Editor</AssemblyName>
@@ -94,16 +94,16 @@
      <Compile Include="Assets\Packages\ProCore\ProGrids\Editor\pg_Preferences.cs" />
      <Compile Include="Assets\Packages\ProCore\ProGrids\Editor\pg_ToggleContent.cs" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/ryanp/Documents/GameWithJonas/for ryan/Fall/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/ryanp/Documents/UnityProjects/BombasticWorldTour/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/ryanp/Documents/GameWithJonas/for ryan/Fall/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/ryanp/Documents/UnityProjects/BombasticWorldTour/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/ryanp/Documents/GameWithJonas/for ryan/Fall/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/ryanp/Documents/UnityProjects/BombasticWorldTour/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/ryanp/Documents/GameWithJonas/for ryan/Fall/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/ryanp/Documents/UnityProjects/BombasticWorldTour/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -396,7 +396,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="Assembly-CSharp.csproj">
-      <Project>{99B69CDB-B865-FDFF-E905-798DBFC2BDC4}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
+      <Project>{14083655-1E0D-DE46-72ED-D1F91D03DC93}</Project>      <Name>Assembly-CSharp</Name>    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

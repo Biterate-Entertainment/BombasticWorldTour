@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{99B69CDB-B865-FDFF-E905-798DBFC2BDC4}</ProjectGuid>
+    <ProjectGuid>{14083655-1E0D-DE46-72ED-D1F91D03DC93}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -162,16 +162,16 @@
      <None Include="Assets\Packages\PostProcessing\Resources\Shaders\AmbientOcclusion.cginc" />
      <None Include="Assets\Packages\PostProcessing\Editor Resources\Monitors\WaveformCompute.compute" />
  <Reference Include="UnityEditor.StandardEvents">
- <HintPath>C:/Users/ryanp/Documents/GameWithJonas/for ryan/Fall/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
+ <HintPath>C:/Users/ryanp/Documents/UnityProjects/BombasticWorldTour/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro.Editor">
- <HintPath>C:/Users/ryanp/Documents/GameWithJonas/for ryan/Fall/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ <HintPath>C:/Users/ryanp/Documents/UnityProjects/BombasticWorldTour/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
- <HintPath>C:/Users/ryanp/Documents/GameWithJonas/for ryan/Fall/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ <HintPath>C:/Users/ryanp/Documents/UnityProjects/BombasticWorldTour/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.TextMeshPro">
- <HintPath>C:/Users/ryanp/Documents/GameWithJonas/for ryan/Fall/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ <HintPath>C:/Users/ryanp/Documents/UnityProjects/BombasticWorldTour/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
