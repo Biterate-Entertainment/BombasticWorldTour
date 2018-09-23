@@ -2,5 +2,5 @@
 
 Developers:
 
-Jonas Simpson
+Jonas Simpson (the coolest cat in town)
 Ryan Pfeifer
